@@ -11,6 +11,9 @@ import sqlite3
 #textblob sentiment analysis documentation
 #https://textblob.readthedocs.io/en/dev/
 
+#this is the full script which:
+#authenticates, get tweets, pulls them into 
+#sqlite, and last gives setntiment
 
 def keys():
 
